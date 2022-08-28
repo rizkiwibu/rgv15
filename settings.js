@@ -26,11 +26,11 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
+global.botname = "ikybot" //namabot kalian
+global.ownername= "ikystore?" //nama kalian
+global.myweb ="https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA" //bebas asal jan hapus
+global.myweb2 = "https://youtube.com/channel/UC4nKoTls09OfD-GUTKt-6OA" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
